@@ -10,7 +10,11 @@ Para rodar a análise principal (Integração AE + CUSUM):
 
 Abra o projeto no RStudio.
 
-Instale as dependências: install.packages(c("daltoolbox", "harbinger", "united", "ggplot2", "dplyr", "gridExtra", "caret")).
+Instale as dependências: 
+```bash
+
+install.packages(c("daltoolbox", "harbinger", "united", "ggplot2", "dplyr", "gridExtra", "caret")).
+```
 
 Execute o script principal:
 ```bash
